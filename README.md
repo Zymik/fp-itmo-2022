@@ -1,2 +1,2 @@
 # fp-itmo-2022
-My solutions of functional programming course
+My solutions for functional programming course
